@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SanttiumDriverJava">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../SanttiumJava/out/artifacts/SanttiumDriverJava_jar/SanttiumDriverJava.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
